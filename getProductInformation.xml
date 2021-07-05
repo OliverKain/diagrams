@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T03:37:08.454Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64" etag="i0ZMmuOH-DqNBpPsa_t8" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-05T03:48:43.236Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64" etag="J7NSsHfqyxevkw5LWpsj" version="14.8.3" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="1374" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -122,8 +122,8 @@
         <mxCell id="h8ltTb_rd0oD5R8B-boR-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=9;" parent="1c1d494c118603dd-4" source="h8ltTb_rd0oD5R8B-boR-181" target="h8ltTb_rd0oD5R8B-boR-183" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h8ltTb_rd0oD5R8B-boR-181" value="Product options" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1c1d494c118603dd-4" vertex="1">
-          <mxGeometry x="-62.5" y="460" width="125" height="30" as="geometry" />
+        <mxCell id="h8ltTb_rd0oD5R8B-boR-181" value="Product options, sum assured amounts, terms" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1c1d494c118603dd-4" vertex="1">
+          <mxGeometry x="-62.5" y="440" width="122.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="h8ltTb_rd0oD5R8B-boR-183" value="Display product options for customer" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1c1d494c118603dd-4" vertex="1">
           <mxGeometry x="130" y="450" width="130" height="50" as="geometry" />
